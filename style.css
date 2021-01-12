@@ -1,0 +1,16 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.catg img{
+    width:100px ;
+}
+.panda .carousel-item{
+    background-color: thistle;
+    border-radius: 1em;
+
+
+}
